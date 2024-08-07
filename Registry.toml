@@ -1,0 +1,6 @@
+name = "IsacRegistry"
+uuid = "d6d2a3e8-6288-4854-becd-c6e9d7c22d8e"
+repo = "https://github.com/isaccnrbo/IsacRegistry.git"
+description = "private IsacRegistry"
+
+[packages]
