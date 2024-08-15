@@ -4,4 +4,5 @@ repo = "https://github.com/isaccnrbo/IsacRegistry.git"
 description = "private IsacRegistry"
 
 [packages]
+82dd0fe1-4e75-413c-9a72-18f382ba1d2e = { name = "IsacFileReader", path = "I/IsacFileReader" }
 a2b3d639-5716-4ad9-b4c6-7c6b6078917d = { name = "IsacBinaryReader", path = "I/IsacBinaryReader" }
