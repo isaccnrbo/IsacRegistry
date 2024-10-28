@@ -1,0 +1,3 @@
+name = "GeoUtils"
+uuid = "9e7f6a50-18ad-4244-91e0-d4fb5b087add"
+repo = "https://github.com/uriele/GeoUtils.jl.git"
