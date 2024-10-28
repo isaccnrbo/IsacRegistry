@@ -8,3 +8,8 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 UnitfulData = "479269fd-87c4-43d6-a395-02aad47d928b"
 XML = "72c71f33-b9b6-44de-8c94-c961784809e2"
+
+["1.2-1"]
+CoordRefSystems = "b46f11dc-f210-4604-bfba-323c1ec968cb"
+Lazy = "50d2b5c4-7a5e-59d5-8109-a42b560f39c0"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
